@@ -1,54 +1,67 @@
-# Abdo-Emad
-
-<h1 align="center">Hi 👋, I'm Abdelrahman Emad</h1>
-<h3 align="center">Flutter Developer | Clean Architecture Specialist | Mobile Architect</h3>
+<h1 align="center">Abdelrahman Emad</h1>
+<h3 align="center">Flutter Developer | Clean Architecture | BLoC | Firebase</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=22&center=true&vCenter=true&width=600&lines=Flutter+Developer;Clean+Architecture+Expert;BLoC+%7C+Firebase+%7C+REST+APIs;Building+Production+Ready+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=600&lines=Production+Ready+Flutter+Apps;Clean+Architecture+Focused;BLoC+%7C+Firebase+%7C+REST+APIs;Continuous+Learner" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently working as a Flutter Developer  
-- 🧠 Specialized in Clean Architecture & scalable systems  
-- ⚡ Experienced with BLoC, Firebase, WebSockets  
-- 🌍 Based in Cairo, Egypt  
-- 💬 Ask me about Flutter performance & architecture  
+Mid-level Flutter Developer with hands-on experience building and deploying production-grade cross-platform applications for Android and iOS.
 
----
-
-## 🛠 Tech Stack
-
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode" />
-</p>
+Experienced in Clean Architecture, BLoC/Cubit state management, Firebase services, REST APIs, and real-time features.  
+Focused on writing maintainable code, scalable structures, and performance-optimized applications.
 
 ---
 
-## 📱 Featured Production Apps
+## Tech Stack
 
-- Designers Station – Marketplace App  
-- Nawadir – Antiques Marketplace  
-- Dabrnak – Car Rental Booking Platform  
-- Fekra – Investor & Entrepreneur Platform  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+- Flutter & Dart  
+- Clean Architecture  
+- BLoC / Cubit  
+- Firebase (Auth, Firestore, FCM)  
+- REST APIs  
+- WebSockets  
+- Git & Version Control  
 
 ---
 
-## 🌐 Connect With Me
+# Production Apps
 
-📧 abdo.emad6677@gmail.com  
-💼 LinkedIn: ([put your link here](https://www.linkedin.com/in/abdo-emad-8255463a5?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+### Designers Station  
+Marketplace platform connecting design providers and users  
+Website: https://dsnstation.com/  
+App Store: https://apps.apple.com/eg/app/designers-station/id6752848353  
+Google Play: https://play.google.com/store/apps/details?id=com.flutter.app.designerstation  
+
+---
+
+### Nawadir  
+Antiques & collectibles marketplace  
+Website: https://nawader-sa.net/  
+App Store: https://apps.apple.com/eg/app/nawadir/id6753936221  
+Google Play: https://play.google.com/store/apps/details?id=com.aait.flutter.nawadir  
+
+---
+
+### Dabrnak  
+Car rental booking platform  
+Website: https://dbrnak.com/  
+App Store: https://apps.apple.com/eg/app/dabrnak/id6529546028  
+Google Play: https://play.google.com/store/apps/details?id=com.aait.flutter.dabarnak  
+
+---
+
+### Fekra  
+Entrepreneur & investor networking platform  
+Website: https://fekra-a.com/  
+Google Play: https://play.google.com/store/apps/details?id=com.aait.flutter.fekra  
+
+---
+
+## Contact
+
+Email: abdo.emad6677@gmail.com  
+LinkedIn: https://www.linkedin.com/in/abdo-emad-8255463a5
